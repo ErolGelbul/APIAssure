@@ -39,7 +39,7 @@ make dev
 ## 3. Features
 
 1. Logging
-2. Automated end to end scenarios.
+2. Automated end to end scenarios. (decent boilerplate)
 3. Pytest Fixtures
 
 ## 4. Components
