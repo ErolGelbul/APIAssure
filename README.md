@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<div style="text-align:center"><img src="images/cover_image.jpg" /></div>
+<div style="text-align:center"><img src="images/cover_image2.jpg" /></div>
 
 ## 1. APIAssure
 
